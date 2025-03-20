@@ -31,7 +31,7 @@ acordo com o ID do problema na plataforma.
 
 As seguintes linguagens de programação foram usadas:
 
-<img src="kotlin.png" width="100">
+<img src="images/kotlin.png" width="100">
 
 ## Author
 
