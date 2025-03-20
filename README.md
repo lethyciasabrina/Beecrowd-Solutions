@@ -18,7 +18,7 @@ acordo com o ID do problema na plataforma.
 
 ### 📌 Categorias
 
-- [**Iniciante**](caminho/para/pasta) - Problemas básicos para quem está iniciando na programação.
+- [**Iniciante**](iniciante) - Problemas básicos para quem está iniciando na programação.
 - [**Ad-Hoc**](caminho/para/pasta) - Simulação, Datas e problemas Ad-Hoc em geral.
 - [**Strings**](caminho/para/pasta) - Palíndromos, Frequência, LCS, Manipulação de Strings.
 - [**Estruturas e Bibliotecas**](caminho/para/pasta) - Filas, Pilhas, Ordenação, Mapas.
